@@ -7,6 +7,7 @@ I am a third-year BEng in Software Engineering student at the University of Sout
 [![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) <br/>
 A CSV query language programmed in Haskell.
 ### RAdrenaline
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) <br/>
 A fork of Adrenaline that adds RetroAchievements support through the rcheevos library. 
 What is Adrenaline?
 Adrenaline is a software that modifies the official PSP Emulator using taiHEN CFW framework to make it run a PSP 6.61 custom firmware. Thanks to the power of taiHEN, Adrenaline can inject custom code into the IPL which allows unsigned code to run at boottime.
