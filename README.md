@@ -4,6 +4,7 @@ I am a third-year BEng in Software Engineering student at the University of Sout
 
 ## Projects
 ### BetterServe
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](#) <br/>
 A CSV query language programmed in Haskell.
 ### RAdrenaline
 A fork of Adrenaline that adds RetroAchievements support through the rcheevos library. 
