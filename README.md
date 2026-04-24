@@ -17,6 +17,10 @@ Adrenaline is a software that modifies the official PSP Emulator using taiHEN CF
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#) <br/>
 A knowledge archive website archiving a wide variety of knowledge and opinion articles by different authors. Accessible but still a work-in-progress.
 
+**Project Allocation Portal** <br/>
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
+A web-based system that automates the allocation of students to supervisors using stable matching algorithms. It allows users to submit preferences while respecting constraints like supervisor capacity, producing fair and consistent assignments, and reducing manual administrative workload.
+
 <!--
 **OsamaHeweitat/OsamaHeweitat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
